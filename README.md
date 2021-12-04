@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=
-%2A+years+of+hands-on+experience+in+programming;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)]
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=%2A+years+of+hands-on+experience+in+programming;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
